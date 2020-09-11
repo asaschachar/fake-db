@@ -59,11 +59,6 @@
     {"id":8,"first_name":"Candy","last_name":"Pope","email":"cpope7@squarespace.com","address":"291 Twin Pines Junction","registered_date":"8/19/2020","balance":81.75},
     {"id":9,"first_name":"Clark","last_name":"Bouldon","email":"cbouldon8@jiathis.com","address":"1 Carberry Junction","registered_date":"5/17/2020","balance":141.56},
     {"id":10,"first_name":"Rory","last_name":"Roisen","email":"rroisen9@wunderground.com","address":"5711 Twin Pines Circle","registered_date":"3/7/2020","balance":42.37},
-    {"id":11,"first_name":"Tanhya","last_name":"Gave","email":"tgavea@reuters.com","address":"3837 Melvin Road","registered_date":"10/25/2019","balance":3.34},
-    {"id":12,"first_name":"Wilek","last_name":"McConigal","email":"wmcconigalb@boston.com","address":"3012 Stone Corner Plaza","registered_date":"10/23/2019","balance":31.08},
-    {"id":13,"first_name":"Bellina","last_name":"Castangia","email":"bcastangiac@shop-pro.jp","address":"1 Heffernan Point","registered_date":"8/8/2020","balance":86.03},
-    {"id":14,"first_name":"Joleen","last_name":"Winborn","email":"jwinbornd@geocities.jp","address":"45980 Buell Crossing","registered_date":"5/17/2020","balance":217.83},
-    {"id":15,"first_name":"Welch","last_name":"Mulqueeny","email":"wmulqueenye@pinterest.com","address":"3 Algoma Place","registered_date":"8/6/2020","balance":247.8},
   ],
   "profile": {
     "name": "typicode"
