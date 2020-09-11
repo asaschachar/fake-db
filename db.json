@@ -22,11 +22,7 @@
     {"item_id":"eb517c14-8756-408a-9366-a3d4007960f3","item":"Muffin Orange Individual","purchaser_id":7,"purchased_date":"12/17/2019","price":85},
     {"item_id":"728aae16-f52c-4b20-85bd-9e6b77826843","item":"Veal - Provimi Inside","purchaser_id":4,"purchased_date":"5/26/2020","price":27},
     {"item_id":"1aa6e6d9-dfb1-4b00-b257-03d61b514374","item":"Wine - Ruffino Chianti","purchaser_id":6,"purchased_date":"8/15/2020","price":248},
-    {"item_id":"2a163850-d45d-4097-ae00-fd206effa68b","item":"Mustard - Individual Pkg","purchaser_id":3,"purchased_date":"9/25/2019","price":94},
-    {"item_id":"4aebd442-6476-4040-8d67-23af46171747","item":"Dome Lid Clear P92008h","purchaser_id":7,"purchased_date":"8/22/2020","price":206},
-    {"item_id":"3ccff5df-3f83-47ca-a7ce-6ddc1148166a","item":"Mudslide","purchaser_id":1,"purchased_date":"12/11/2019","price":137},
-    {"item_id":"416af54b-13aa-40ea-a8e3-c6144bc9d075","item":"Lettuce Romaine Chopped","purchaser_id":1,"purchased_date":"3/1/2020","price":171},
-    {"item_id":"02163bff-7331-42b7-a85d-5b28d65ea265","item":"Spinach - Frozen","purchaser_id":9,"purchased_date":"11/15/2019","price":12}
+    {"item_id":"2a163850-d45d-4097-ae00-fd206effa68b","item":"Mustard - Individual Pkg","purchaser_id":3,"purchased_date":"9/25/2019","price":94}
   ],
   "purchasers": [
     {"id":1,"first_name":"Jaymee","last_name":"Tolotti","email":"jtolotti0@edublogs.org","address":"27696 Springview Parkway","registered_date":"3/19/2020","balance":24.95},
@@ -62,7 +58,7 @@
     {"id":19,"first_name":"Duncan","last_name":"Blazdell","email":"dblazdelli@tripadvisor.com","address":"942 Longview Street","price":137.81,"item_id":"6426646555","item":"Oil - Truffle, Black","purchased_date":"2/7/2020"},
     {"id":20,"first_name":"Dickie","last_name":"Romera","email":"dromeraj@vimeo.com","address":"2 Sachtjen Circle","price":58.5,"item_id":"3122375869","item":"Snapple Raspberry Tea","purchased_date":"3/30/2020"},
     {"id":21,"first_name":"Whitman","last_name":"Lansley","email":"wlansleyk@nydailynews.com","address":"628 Steensland Parkway","price":92.16,"item_id":"7489561000","item":"Beef - Salted","purchased_date":"3/6/2020"},
-    {"id":22,"first_name":"Georgette","last_name":"Addington","email":"gaddingtonl@nature.com","address":"3 Badeau Circle","price":130.24,"item_id":"0430227442","item":"Tomatoes - Orange","purchased_date":"11/9/2019"},
+    {"id":22,"first_name":"Georgette","last_name":"Addington","email":"gaddingtonl@nature.com","address":"3 Badeau Circle","price":130.24,"item_id":"0430227442","item":"Tomatoes - Orange","purchased_date":"11/9/2019"}
   ],
   "profile": {
     "name": "typicode"
