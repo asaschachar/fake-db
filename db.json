@@ -26,7 +26,7 @@
     {"item_id":"4aebd442-6476-4040-8d67-23af46171747","item":"Dome Lid Clear P92008h","purchaser_id":7,"purchased_date":"8/22/2020","price":206},
     {"item_id":"3ccff5df-3f83-47ca-a7ce-6ddc1148166a","item":"Mudslide","purchaser_id":1,"purchased_date":"12/11/2019","price":137},
     {"item_id":"416af54b-13aa-40ea-a8e3-c6144bc9d075","item":"Lettuce Romaine Chopped","purchaser_id":1,"purchased_date":"3/1/2020","price":171},
-    {"item_id":"02163bff-7331-42b7-a85d-5b28d65ea265","item":"Spinach - Frozen","purchaser_id":9,"purchased_date":"11/15/2019","price":12},
+    {"item_id":"02163bff-7331-42b7-a85d-5b28d65ea265","item":"Spinach - Frozen","purchaser_id":9,"purchased_date":"11/15/2019","price":12}
   ],
   "purchasers": [
     {"id":1,"first_name":"Jaymee","last_name":"Tolotti","email":"jtolotti0@edublogs.org","address":"27696 Springview Parkway","registered_date":"3/19/2020","balance":24.95},
