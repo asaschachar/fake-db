@@ -58,7 +58,7 @@
     {"id":7,"first_name":"Willow","last_name":"Reiner","email":"wreiner6@vistaprint.com","address":"99068 Pond Circle","registered_date":"11/17/2019","balance":231.86},
     {"id":8,"first_name":"Candy","last_name":"Pope","email":"cpope7@squarespace.com","address":"291 Twin Pines Junction","registered_date":"8/19/2020","balance":81.75},
     {"id":9,"first_name":"Clark","last_name":"Bouldon","email":"cbouldon8@jiathis.com","address":"1 Carberry Junction","registered_date":"5/17/2020","balance":141.56},
-    {"id":10,"first_name":"Rory","last_name":"Roisen","email":"rroisen9@wunderground.com","address":"5711 Twin Pines Circle","registered_date":"3/7/2020","balance":42.37},
+    {"id":10,"first_name":"Rory","last_name":"Roisen","email":"rroisen9@wunderground.com","address":"5711 Twin Pines Circle","registered_date":"3/7/2020","balance":42.37}
   ],
   "profile": {
     "name": "typicode"
