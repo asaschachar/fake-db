@@ -63,14 +63,6 @@
     {"id":20,"first_name":"Dickie","last_name":"Romera","email":"dromeraj@vimeo.com","address":"2 Sachtjen Circle","price":58.5,"item_id":"3122375869","item":"Snapple Raspberry Tea","purchased_date":"3/30/2020"},
     {"id":21,"first_name":"Whitman","last_name":"Lansley","email":"wlansleyk@nydailynews.com","address":"628 Steensland Parkway","price":92.16,"item_id":"7489561000","item":"Beef - Salted","purchased_date":"3/6/2020"},
     {"id":22,"first_name":"Georgette","last_name":"Addington","email":"gaddingtonl@nature.com","address":"3 Badeau Circle","price":130.24,"item_id":"0430227442","item":"Tomatoes - Orange","purchased_date":"11/9/2019"},
-    {"id":23,"first_name":"Nevins","last_name":"Ricards","email":"nricardsm@yolasite.com","address":"6020 Park Meadow Pass","price":124.91,"item_id":"6722166651","item":"Lamb Tenderloin Nz Fr","purchased_date":"12/13/2019"},
-    {"id":24,"first_name":"Hewie","last_name":"Watterson","email":"hwattersonn@gizmodo.com","address":"43054 Clove Lane","price":193.65,"item_id":"4879860557","item":"Dried Apple","purchased_date":"1/19/2020"},
-    {"id":25,"first_name":"Avivah","last_name":"Mulkerrins","email":"amulkerrinso@wikipedia.org","address":"97 Mariners Cove Street","price":251.07,"item_id":"7638536967","item":"Langers - Ruby Red Grapfruit","purchased_date":"8/27/2020"},
-    {"id":26,"first_name":"Madalena","last_name":"Smellie","email":"msmelliep@deviantart.com","address":"75 International Park","price":28.43,"item_id":"6188576547","item":"Ice Cream - Life Savers","purchased_date":"9/9/2020"},
-    {"id":27,"first_name":"Berti","last_name":"Loch","email":"blochq@examiner.com","address":"6 Steensland Center","price":227.42,"item_id":"0153477202","item":"Pepsi - Diet, 355 Ml","purchased_date":"10/8/2019"},
-    {"id":28,"first_name":"Sean","last_name":"Jossum","email":"sjossumr@discovery.com","address":"40053 Coleman Terrace","price":144.04,"item_id":"6809610138","item":"Sobe - Lizard Fuel","purchased_date":"11/1/2019"},
-    {"id":29,"first_name":"Nadean","last_name":"Anersen","email":"nanersens@ifeng.com","address":"05 Havey Court","price":206.99,"item_id":"3056420571","item":"Cafe Royale","purchased_date":"4/2/2020"},
-    {"id":30,"first_name":"Olympie","last_name":"Tirkin","email":"otirkint@opensource.org","address":"5 Commercial Hill","price":247.88,"item_id":"9154134390","item":"Pork - Tenderloin, Fresh","purchased_date":"6/8/2020"}
   ],
   "profile": {
     "name": "typicode"
