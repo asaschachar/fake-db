@@ -40,6 +40,38 @@
     {"id":9,"first_name":"Clark","last_name":"Bouldon","email":"cbouldon8@jiathis.com","address":"1 Carberry Junction","registered_date":"5/17/2020","balance":141.56},
     {"id":10,"first_name":"Rory","last_name":"Roisen","email":"rroisen9@wunderground.com","address":"5711 Twin Pines Circle","registered_date":"3/7/2020","balance":42.37}
   ],
+  "returns": [
+    {"id":1,"first_name":"Alberto","last_name":"Eakley","email":"aeakley0@artisteer.com","address":"46186 Eastlawn Trail","price":155.03,"item_id":"6358274368","item":"Cream Of Tartar","purchased_date":"1/23/2020"},
+    {"id":2,"first_name":"Skylar","last_name":"De Witt","email":"sdewitt1@de.vu","address":"50597 Buhler Trail","price":147.69,"item_id":"6334084348","item":"Orange - Blood","purchased_date":"1/7/2020"},
+    {"id":3,"first_name":"Witty","last_name":"Shallow","email":"wshallow2@imageshack.us","address":"92861 Green Ridge Trail","price":65.96,"item_id":"8933250344","item":"Lamb - Whole, Fresh","purchased_date":"2/26/2020"},
+    {"id":4,"first_name":"Olga","last_name":"Larret","email":"olarret3@deviantart.com","address":"93 Fulton Drive","price":212.45,"item_id":"5731753709","item":"Cranberries - Dry","purchased_date":"12/11/2019"},
+    {"id":5,"first_name":"Stearne","last_name":"Skedge","email":"sskedge4@studiopress.com","address":"9253 Johnson Avenue","price":77.52,"item_id":"5449225091","item":"Chicken - Base","purchased_date":"9/26/2019"},
+    {"id":6,"first_name":"Lindy","last_name":"Kighly","email":"lkighly5@infoseek.co.jp","address":"8339 Mifflin Way","price":219.8,"item_id":"8465216940","item":"Rappini - Andy Boy","purchased_date":"10/25/2019"},
+    {"id":7,"first_name":"Genia","last_name":"Pendre","email":"gpendre6@yolasite.com","address":"87 Waxwing Point","price":25.12,"item_id":"4858516539","item":"Bacardi Mojito","purchased_date":"9/25/2019"},
+    {"id":8,"first_name":"Laetitia","last_name":"Cheese","email":"lcheese7@goo.ne.jp","address":"3463 Sloan Terrace","price":18.86,"item_id":"1883343550","item":"Sorrel - Fresh","purchased_date":"4/1/2020"},
+    {"id":9,"first_name":"Teodoor","last_name":"Dunkersley","email":"tdunkersley8@liveinternet.ru","address":"9398 Lyons Parkway","price":125.99,"item_id":"4776273594","item":"Roe - Lump Fish, Red","purchased_date":"11/14/2019"},
+    {"id":10,"first_name":"Avie","last_name":"Dunkerly","email":"adunkerly9@weebly.com","address":"04312 Mendota Point","price":27.79,"item_id":"1665233435","item":"Coconut - Shredded, Unsweet","purchased_date":"12/30/2019"},
+    {"id":11,"first_name":"Maisey","last_name":"Drysdall","email":"mdrysdalla@360.cn","address":"42952 Packers Way","price":252.43,"item_id":"7954703835","item":"Chinese Foods - Pepper Beef","purchased_date":"12/25/2019"},
+    {"id":12,"first_name":"Jethro","last_name":"Schroder","email":"jschroderb@skyrock.com","address":"59 Comanche Plaza","price":81.44,"item_id":"5943377468","item":"Chickhen - Chicken Phyllo","purchased_date":"8/22/2020"},
+    {"id":13,"first_name":"Brandais","last_name":"Sabbatier","email":"bsabbatierc@plala.or.jp","address":"225 Atwood Junction","price":170.95,"item_id":"5154002156","item":"Walkers Special Old Whiskey","purchased_date":"11/14/2019"},
+    {"id":14,"first_name":"Elysee","last_name":"Pidgeon","email":"epidgeond@nih.gov","address":"6 Golf Hill","price":126.47,"item_id":"0293776830","item":"Plaintain","purchased_date":"3/22/2020"},
+    {"id":15,"first_name":"Latia","last_name":"Baus","email":"lbause@github.com","address":"4 Arapahoe Place","price":79.15,"item_id":"9127977765","item":"Ecolab - Solid Fusion","purchased_date":"6/23/2020"},
+    {"id":16,"first_name":"Novelia","last_name":"Rounce","email":"nrouncef@uol.com.br","address":"832 Oriole Circle","price":41.79,"item_id":"5387998890","item":"Compound - Orange","purchased_date":"5/10/2020"},
+    {"id":17,"first_name":"Marlowe","last_name":"Bacup","email":"mbacupg@google.co.uk","address":"27375 Lake View Circle","price":5.48,"item_id":"8551959476","item":"Turkey - Breast, Smoked","purchased_date":"6/24/2020"},
+    {"id":18,"first_name":"Brittni","last_name":"Hatch","email":"bhatchh@google.co.uk","address":"8024 Haas Avenue","price":159.76,"item_id":"9470104072","item":"Creme De Cacao White","purchased_date":"8/27/2020"},
+    {"id":19,"first_name":"Duncan","last_name":"Blazdell","email":"dblazdelli@tripadvisor.com","address":"942 Longview Street","price":137.81,"item_id":"6426646555","item":"Oil - Truffle, Black","purchased_date":"2/7/2020"},
+    {"id":20,"first_name":"Dickie","last_name":"Romera","email":"dromeraj@vimeo.com","address":"2 Sachtjen Circle","price":58.5,"item_id":"3122375869","item":"Snapple Raspberry Tea","purchased_date":"3/30/2020"},
+    {"id":21,"first_name":"Whitman","last_name":"Lansley","email":"wlansleyk@nydailynews.com","address":"628 Steensland Parkway","price":92.16,"item_id":"7489561000","item":"Beef - Salted","purchased_date":"3/6/2020"},
+    {"id":22,"first_name":"Georgette","last_name":"Addington","email":"gaddingtonl@nature.com","address":"3 Badeau Circle","price":130.24,"item_id":"0430227442","item":"Tomatoes - Orange","purchased_date":"11/9/2019"},
+    {"id":23,"first_name":"Nevins","last_name":"Ricards","email":"nricardsm@yolasite.com","address":"6020 Park Meadow Pass","price":124.91,"item_id":"6722166651","item":"Lamb Tenderloin Nz Fr","purchased_date":"12/13/2019"},
+    {"id":24,"first_name":"Hewie","last_name":"Watterson","email":"hwattersonn@gizmodo.com","address":"43054 Clove Lane","price":193.65,"item_id":"4879860557","item":"Dried Apple","purchased_date":"1/19/2020"},
+    {"id":25,"first_name":"Avivah","last_name":"Mulkerrins","email":"amulkerrinso@wikipedia.org","address":"97 Mariners Cove Street","price":251.07,"item_id":"7638536967","item":"Langers - Ruby Red Grapfruit","purchased_date":"8/27/2020"},
+    {"id":26,"first_name":"Madalena","last_name":"Smellie","email":"msmelliep@deviantart.com","address":"75 International Park","price":28.43,"item_id":"6188576547","item":"Ice Cream - Life Savers","purchased_date":"9/9/2020"},
+    {"id":27,"first_name":"Berti","last_name":"Loch","email":"blochq@examiner.com","address":"6 Steensland Center","price":227.42,"item_id":"0153477202","item":"Pepsi - Diet, 355 Ml","purchased_date":"10/8/2019"},
+    {"id":28,"first_name":"Sean","last_name":"Jossum","email":"sjossumr@discovery.com","address":"40053 Coleman Terrace","price":144.04,"item_id":"6809610138","item":"Sobe - Lizard Fuel","purchased_date":"11/1/2019"},
+    {"id":29,"first_name":"Nadean","last_name":"Anersen","email":"nanersens@ifeng.com","address":"05 Havey Court","price":206.99,"item_id":"3056420571","item":"Cafe Royale","purchased_date":"4/2/2020"},
+    {"id":30,"first_name":"Olympie","last_name":"Tirkin","email":"otirkint@opensource.org","address":"5 Commercial Hill","price":247.88,"item_id":"9154134390","item":"Pork - Tenderloin, Fresh","purchased_date":"6/8/2020"}
+  ],
   "profile": {
     "name": "typicode"
   }
